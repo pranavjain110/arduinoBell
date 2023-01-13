@@ -5,6 +5,10 @@ When it is time for break, first the buzzer relay will turn on for 30 seconds, f
 
 Once the break is over, the relay for the Red LED will turn off and the Relay for the Green LED will turn on.
 
+In the current setup of the 8 Relay Module board:
+Relay 1,2 are used for Green Light 
+Relay 3,4 are used for Red Light
+Relay 5,6 are used for Buzzer 
 
 The user can modify the time of the break and the duration of the break easily from User Input section of the code.
 
