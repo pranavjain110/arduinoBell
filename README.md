@@ -8,5 +8,5 @@ Once the break is over, the relay for the Red LED will turn off and the Relay fo
 
 The user can modify the ime of the break and the duration of the break easily from User Input section of the code.
 
-Wiring Schematic (WEMOS D1R2 board to 8 Relay Module board)
+### Wiring Schematic (WEMOS D1R2 board to 8 Relay Module board):
 ![schematic](https://user-images.githubusercontent.com/59677191/212400557-4811153f-79bf-4474-9ffe-78cf67146363.png)
