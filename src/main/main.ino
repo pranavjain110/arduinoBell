@@ -9,10 +9,8 @@ String breakTimeList_24hrClock[] = {"1:00", "20:55", "22:22"};
 int breakDurationList_Minute[] = {1, 2, 3};
 
 // Wi-FI ssid and password
-//  const char *ssid     = "AIRTELBB";
-//  const char *password = "893C9563DA";
-const char *ssid = "Dimple";
-const char *password = "zaqq3566";
+const char *ssid = "AIRTELBB";
+const char *password = "Pa$$word";
 //*************************************************************//
 
 
