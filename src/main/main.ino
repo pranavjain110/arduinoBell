@@ -5,7 +5,7 @@
 
 //************************ User Input *************************//
 // Define Break Time
-String breakTimeList_24hrClock[] = {"1:00", "23:55", "22:22"};
+String breakTimeList_24hrClock[] = {"1:00", "20:55", "22:22"};
 int breakDurationList_Minute[] = {1, 2, 3};
 
 // Wi-FI ssid and password
@@ -40,7 +40,7 @@ void setup()
   Serial.println("ESP starts");
   // Code to connect to the Wifi
   WiFi.begin(ssid, password);
-  Serial.print("Connecting...");
+  Serial.print("Connecting ...");
   while (WiFi.status() != WL_CONNECTED)
   { // Loop which makes a point every 500ms until the connection process has finished
     delay(500);
